@@ -201,6 +201,7 @@ endmodule
 
 
 **Result**:
+
 simulation 2-bit and 4-bit multiplier are verified successfullly.
 
 
